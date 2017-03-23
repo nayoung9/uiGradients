@@ -883,5 +883,9 @@
     {
         "name": "Crystal Clear",
         "colors": ["#159957", "#155799"]
+    }, 
+    {
+        "name": "egg mayo",
+        "colors": ["#FDD600", "#EAE3D4"]
     }
 ]
